@@ -26,3 +26,20 @@ Decoder:
 - In variable save previous code.
 - If code < len(out message) append element of out message with index of code
 - In other situation append sum of element of out message with index of previous code and
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+### Contributors
+
+Anastasia Pelekh: Huffman, Lz77, Deflated
+Dmytro Shumskyi: Lzw, Lz77, Deflated
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
