@@ -39,7 +39,7 @@ Please make sure to update tests as appropriate.
 
 Anastasia Pelekh: Huffman, Lz77, Deflated
 
-Dmytro Shumskyi: Lzw, Lz77, Deflated
+Dmytro Shumskyi: LZW, Lz77, Deflated
 
 ## License
 
