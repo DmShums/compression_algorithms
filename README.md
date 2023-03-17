@@ -1,4 +1,4 @@
-# compression_algorithms
+# Compression algorithms
 
 ## LZW
 
