@@ -35,9 +35,10 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-### Contributors
+## Contributors
 
 Anastasia Pelekh: Huffman, Lz77, Deflated
+
 Dmytro Shumskyi: Lzw, Lz77, Deflated
 
 ## License
